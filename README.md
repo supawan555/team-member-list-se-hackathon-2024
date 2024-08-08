@@ -1,13 +1,17 @@
-# team-member-list-se-hackathon-2024
+# Team Member List for SE Hackathon 2024
 
-you must include the list of members in your team. 
+Please include the list of members in your team, following the format below.
 
-For example:
+### Example:
 
-- 6100000011 Ewan - Dev1 in exercise 1, Dev3 in exercise 2
-- 6100000012 Paramvir - Dev3 in exercise 1, Dev2 in exercise 2
-- 6100000013 Nacha - Dev2 in exercise 1, Dev1 in exercise 1
+- **6100000011** Ewan
+- **6100000012** Paramvir
+- **6100000013** Nacha
 
-Now your turn
+---
+
+Now it's your turn! Please provide the details of your team members following the same format.
+
+---
 
 -
